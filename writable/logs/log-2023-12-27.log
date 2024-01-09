@@ -1,0 +1,1208 @@
+INFO - 2023-12-27 15:47:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-27 15:47:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-27 15:47:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-27 15:51:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-27 16:37:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-27 16:37:28 --> Undefined variable $ModelLogin
+in APPPATH\Views\main_view.php on line 58.
+ 1 APPPATH\Views\main_view.php(58): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $ModelLogin', 'D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\app\\Views\\main_view.php', 58)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\app\\Views\\main_view.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('main_view', [], true)
+ 5 APPPATH\Controllers\Main.php(11): view('main_view')
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Main->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+INFO - 2023-12-27 16:38:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-27 16:38:27 --> Undefined variable $ModelLogin
+in APPPATH\Views\main_view.php on line 57.
+ 1 APPPATH\Views\main_view.php(57): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $ModelLogin', 'D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\app\\Views\\main_view.php', 57)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\app\\Views\\main_view.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('main_view', [], true)
+ 5 APPPATH\Controllers\Main.php(11): view('main_view')
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Main->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+INFO - 2023-12-27 16:39:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-27 16:39:41 --> Undefined variable $ModelLogin
+in APPPATH\Views\main_view.php on line 57.
+ 1 APPPATH\Views\main_view.php(57): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $ModelLogin', 'D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\app\\Views\\main_view.php', 57)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\app\\Views\\main_view.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('main_view', [], true)
+ 5 APPPATH\Controllers\Main.php(11): view('main_view')
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Main->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+INFO - 2023-12-27 16:42:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-27 16:42:41 --> Undefined variable $ModelLogin
+in APPPATH\Views\main_view.php on line 57.
+ 1 APPPATH\Views\main_view.php(57): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $ModelLogin', 'D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\app\\Views\\main_view.php', 57)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\app\\Views\\main_view.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('main_view', [], true)
+ 5 APPPATH\Controllers\Main.php(11): view('main_view')
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Main->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+INFO - 2023-12-27 16:44:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-27 16:44:18 --> Undefined variable $ModelLogin
+in APPPATH\Views\main_view.php on line 57.
+ 1 APPPATH\Views\main_view.php(57): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $ModelLogin', 'D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\app\\Views\\main_view.php', 57)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\app\\Views\\main_view.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('main_view', [], true)
+ 5 APPPATH\Controllers\Main.php(11): view('main_view')
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Main->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+INFO - 2023-12-27 16:44:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-27 16:44:19 --> Undefined variable $ModelLogin
+in APPPATH\Views\main_view.php on line 57.
+ 1 APPPATH\Views\main_view.php(57): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $ModelLogin', 'D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\app\\Views\\main_view.php', 57)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\app\\Views\\main_view.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('main_view', [], true)
+ 5 APPPATH\Controllers\Main.php(11): view('main_view')
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Main->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+INFO - 2023-12-27 16:44:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-27 16:44:19 --> Undefined variable $ModelLogin
+in APPPATH\Views\main_view.php on line 57.
+ 1 APPPATH\Views\main_view.php(57): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $ModelLogin', 'D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\app\\Views\\main_view.php', 57)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\app\\Views\\main_view.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('main_view', [], true)
+ 5 APPPATH\Controllers\Main.php(11): view('main_view')
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Main->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+INFO - 2023-12-27 16:44:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-27 16:44:20 --> Undefined variable $ModelLogin
+in APPPATH\Views\main_view.php on line 57.
+ 1 APPPATH\Views\main_view.php(57): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $ModelLogin', 'D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\app\\Views\\main_view.php', 57)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\app\\Views\\main_view.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('main_view', [], true)
+ 5 APPPATH\Controllers\Main.php(11): view('main_view')
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Main->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+INFO - 2023-12-27 16:44:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-27 16:44:20 --> Undefined variable $ModelLogin
+in APPPATH\Views\main_view.php on line 57.
+ 1 APPPATH\Views\main_view.php(57): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $ModelLogin', 'D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\app\\Views\\main_view.php', 57)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\app\\Views\\main_view.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('main_view', [], true)
+ 5 APPPATH\Controllers\Main.php(11): view('main_view')
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Main->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+INFO - 2023-12-27 16:44:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-27 16:44:20 --> Undefined variable $ModelLogin
+in APPPATH\Views\main_view.php on line 57.
+ 1 APPPATH\Views\main_view.php(57): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $ModelLogin', 'D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\app\\Views\\main_view.php', 57)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\app\\Views\\main_view.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('main_view', [], true)
+ 5 APPPATH\Controllers\Main.php(11): view('main_view')
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Main->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+INFO - 2023-12-27 16:44:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-27 16:44:20 --> Undefined variable $ModelLogin
+in APPPATH\Views\main_view.php on line 57.
+ 1 APPPATH\Views\main_view.php(57): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $ModelLogin', 'D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\app\\Views\\main_view.php', 57)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\app\\Views\\main_view.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('main_view', [], true)
+ 5 APPPATH\Controllers\Main.php(11): view('main_view')
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Main->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+INFO - 2023-12-27 16:44:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-27 16:44:20 --> Undefined variable $ModelLogin
+in APPPATH\Views\main_view.php on line 57.
+ 1 APPPATH\Views\main_view.php(57): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $ModelLogin', 'D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\app\\Views\\main_view.php', 57)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\app\\Views\\main_view.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('main_view', [], true)
+ 5 APPPATH\Controllers\Main.php(11): view('main_view')
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Main->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+INFO - 2023-12-27 16:44:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-27 16:44:20 --> Undefined variable $ModelLogin
+in APPPATH\Views\main_view.php on line 57.
+ 1 APPPATH\Views\main_view.php(57): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $ModelLogin', 'D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\app\\Views\\main_view.php', 57)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\app\\Views\\main_view.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('main_view', [], true)
+ 5 APPPATH\Controllers\Main.php(11): view('main_view')
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Main->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+INFO - 2023-12-27 16:44:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-27 16:44:21 --> Undefined variable $ModelLogin
+in APPPATH\Views\main_view.php on line 57.
+ 1 APPPATH\Views\main_view.php(57): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $ModelLogin', 'D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\app\\Views\\main_view.php', 57)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\app\\Views\\main_view.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('main_view', [], true)
+ 5 APPPATH\Controllers\Main.php(11): view('main_view')
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Main->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+INFO - 2023-12-27 16:44:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-27 16:44:21 --> Undefined variable $ModelLogin
+in APPPATH\Views\main_view.php on line 57.
+ 1 APPPATH\Views\main_view.php(57): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $ModelLogin', 'D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\app\\Views\\main_view.php', 57)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\app\\Views\\main_view.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('main_view', [], true)
+ 5 APPPATH\Controllers\Main.php(11): view('main_view')
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Main->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+INFO - 2023-12-27 16:44:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-27 16:44:21 --> Undefined variable $ModelLogin
+in APPPATH\Views\main_view.php on line 57.
+ 1 APPPATH\Views\main_view.php(57): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $ModelLogin', 'D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\app\\Views\\main_view.php', 57)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\app\\Views\\main_view.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('main_view', [], true)
+ 5 APPPATH\Controllers\Main.php(11): view('main_view')
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Main->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+INFO - 2023-12-27 16:44:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-27 16:44:21 --> Undefined variable $ModelLogin
+in APPPATH\Views\main_view.php on line 57.
+ 1 APPPATH\Views\main_view.php(57): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $ModelLogin', 'D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\app\\Views\\main_view.php', 57)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\app\\Views\\main_view.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('main_view', [], true)
+ 5 APPPATH\Controllers\Main.php(11): view('main_view')
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Main->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+INFO - 2023-12-27 16:44:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-27 16:44:21 --> Undefined variable $ModelLogin
+in APPPATH\Views\main_view.php on line 57.
+ 1 APPPATH\Views\main_view.php(57): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $ModelLogin', 'D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\app\\Views\\main_view.php', 57)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\app\\Views\\main_view.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('main_view', [], true)
+ 5 APPPATH\Controllers\Main.php(11): view('main_view')
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Main->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+INFO - 2023-12-27 16:45:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-27 16:45:31 --> Undefined variable $ModelLogin
+in APPPATH\Views\main_view.php on line 57.
+ 1 APPPATH\Views\main_view.php(57): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $ModelLogin', 'D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\app\\Views\\main_view.php', 57)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\app\\Views\\main_view.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('main_view', [], true)
+ 5 APPPATH\Controllers\Main.php(11): view('main_view')
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Main->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+INFO - 2023-12-27 16:50:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-27 16:50:23 --> Too few arguments to function App\Controllers\Login::download(), 0 passed in D:\Udin\SMP 1\web\pengumuman_kelulusan\system\CodeIgniter.php on line 942 and exactly 1 expected
+in APPPATH\Controllers\Login.php on line 50.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Login->download()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+CRITICAL - 2023-12-27 16:50:48 --> Attempt to read property "berkas" on null
+in APPPATH\Controllers\Login.php on line 56.
+ 1 APPPATH\Controllers\Login.php(56): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "berkas" on null', 'D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\app\\Controllers\\Login.php', 56)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Login->download()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+CRITICAL - 2023-12-27 16:51:57 --> File not found: "/public/skl/"
+in SYSTEMPATH\Files\File.php on line 49.
+ 1 SYSTEMPATH\Files\File.php(49): CodeIgniter\Files\Exceptions\FileNotFoundException::forFileNotFound('/public/skl/')
+ 2 SYSTEMPATH\HTTP\DownloadResponse.php(104): CodeIgniter\Files\File->__construct('/public/skl/', true)
+ 3 SYSTEMPATH\HTTP\ResponseTrait.php(806): CodeIgniter\HTTP\DownloadResponse->setFilePath('/public/skl/')
+ 4 APPPATH\Controllers\Login.php(57): CodeIgniter\HTTP\Response->download('', null)
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Login->download()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+CRITICAL - 2023-12-27 16:52:36 --> File not found: "/public/skl/"
+in SYSTEMPATH\Files\File.php on line 49.
+ 1 SYSTEMPATH\Files\File.php(49): CodeIgniter\Files\Exceptions\FileNotFoundException::forFileNotFound('/public/skl/')
+ 2 SYSTEMPATH\HTTP\DownloadResponse.php(104): CodeIgniter\Files\File->__construct('/public/skl/', true)
+ 3 SYSTEMPATH\HTTP\ResponseTrait.php(806): CodeIgniter\HTTP\DownloadResponse->setFilePath('/public/skl/')
+ 4 APPPATH\Controllers\Login.php(57): CodeIgniter\HTTP\Response->download('', null)
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Login->download()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+CRITICAL - 2023-12-27 16:52:47 --> File not found: ".../skl/"
+in SYSTEMPATH\Files\File.php on line 49.
+ 1 SYSTEMPATH\Files\File.php(49): CodeIgniter\Files\Exceptions\FileNotFoundException::forFileNotFound('.../skl/')
+ 2 SYSTEMPATH\HTTP\DownloadResponse.php(104): CodeIgniter\Files\File->__construct('.../skl/', true)
+ 3 SYSTEMPATH\HTTP\ResponseTrait.php(806): CodeIgniter\HTTP\DownloadResponse->setFilePath('.../skl/')
+ 4 APPPATH\Controllers\Login.php(57): CodeIgniter\HTTP\Response->download('', null)
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Login->download()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+CRITICAL - 2023-12-27 16:53:22 --> File not found: "/skl/"
+in SYSTEMPATH\Files\File.php on line 49.
+ 1 SYSTEMPATH\Files\File.php(49): CodeIgniter\Files\Exceptions\FileNotFoundException::forFileNotFound('/skl/')
+ 2 SYSTEMPATH\HTTP\DownloadResponse.php(104): CodeIgniter\Files\File->__construct('/skl/', true)
+ 3 SYSTEMPATH\HTTP\ResponseTrait.php(806): CodeIgniter\HTTP\DownloadResponse->setFilePath('/skl/')
+ 4 APPPATH\Controllers\Login.php(57): CodeIgniter\HTTP\Response->download('', null)
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Login->download()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+CRITICAL - 2023-12-27 16:53:29 --> File not found: "/skl/..."
+in SYSTEMPATH\Files\File.php on line 49.
+ 1 SYSTEMPATH\Files\File.php(49): CodeIgniter\Files\Exceptions\FileNotFoundException::forFileNotFound('/skl/...')
+ 2 SYSTEMPATH\HTTP\DownloadResponse.php(104): CodeIgniter\Files\File->__construct('/skl/...', true)
+ 3 SYSTEMPATH\HTTP\ResponseTrait.php(806): CodeIgniter\HTTP\DownloadResponse->setFilePath('/skl/...')
+ 4 APPPATH\Controllers\Login.php(57): CodeIgniter\HTTP\Response->download('...', null)
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Login->download()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+CRITICAL - 2023-12-27 16:54:20 --> File not found: "/berkas/skl/"
+in SYSTEMPATH\Files\File.php on line 49.
+ 1 SYSTEMPATH\Files\File.php(49): CodeIgniter\Files\Exceptions\FileNotFoundException::forFileNotFound('/berkas/skl/')
+ 2 SYSTEMPATH\HTTP\DownloadResponse.php(104): CodeIgniter\Files\File->__construct('/berkas/skl/', true)
+ 3 SYSTEMPATH\HTTP\ResponseTrait.php(806): CodeIgniter\HTTP\DownloadResponse->setFilePath('/berkas/skl/')
+ 4 APPPATH\Controllers\Login.php(57): CodeIgniter\HTTP\Response->download('', null)
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Login->download()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+CRITICAL - 2023-12-27 16:54:46 --> File not found: "/berkas/skl/"
+in SYSTEMPATH\Files\File.php on line 49.
+ 1 SYSTEMPATH\Files\File.php(49): CodeIgniter\Files\Exceptions\FileNotFoundException::forFileNotFound('/berkas/skl/')
+ 2 SYSTEMPATH\HTTP\DownloadResponse.php(104): CodeIgniter\Files\File->__construct('/berkas/skl/', true)
+ 3 SYSTEMPATH\HTTP\ResponseTrait.php(806): CodeIgniter\HTTP\DownloadResponse->setFilePath('/berkas/skl/')
+ 4 APPPATH\Controllers\Login.php(57): CodeIgniter\HTTP\Response->download('', null)
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Login->download()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+CRITICAL - 2023-12-27 16:54:49 --> File not found: "/berkas/skl/"
+in SYSTEMPATH\Files\File.php on line 49.
+ 1 SYSTEMPATH\Files\File.php(49): CodeIgniter\Files\Exceptions\FileNotFoundException::forFileNotFound('/berkas/skl/')
+ 2 SYSTEMPATH\HTTP\DownloadResponse.php(104): CodeIgniter\Files\File->__construct('/berkas/skl/', true)
+ 3 SYSTEMPATH\HTTP\ResponseTrait.php(806): CodeIgniter\HTTP\DownloadResponse->setFilePath('/berkas/skl/')
+ 4 APPPATH\Controllers\Login.php(57): CodeIgniter\HTTP\Response->download('', null)
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Login->download()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+INFO - 2023-12-27 16:54:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-27 16:54:53 --> File not found: "/berkas/skl/"
+in SYSTEMPATH\Files\File.php on line 49.
+ 1 SYSTEMPATH\Files\File.php(49): CodeIgniter\Files\Exceptions\FileNotFoundException::forFileNotFound('/berkas/skl/')
+ 2 SYSTEMPATH\HTTP\DownloadResponse.php(104): CodeIgniter\Files\File->__construct('/berkas/skl/', true)
+ 3 SYSTEMPATH\HTTP\ResponseTrait.php(806): CodeIgniter\HTTP\DownloadResponse->setFilePath('/berkas/skl/')
+ 4 APPPATH\Controllers\Login.php(57): CodeIgniter\HTTP\Response->download('', null)
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Login->download()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+CRITICAL - 2023-12-27 16:55:44 --> File not found: "/berkas/skl/"
+in SYSTEMPATH\Files\File.php on line 49.
+ 1 SYSTEMPATH\Files\File.php(49): CodeIgniter\Files\Exceptions\FileNotFoundException::forFileNotFound('/berkas/skl/')
+ 2 SYSTEMPATH\HTTP\DownloadResponse.php(104): CodeIgniter\Files\File->__construct('/berkas/skl/', true)
+ 3 SYSTEMPATH\HTTP\ResponseTrait.php(806): CodeIgniter\HTTP\DownloadResponse->setFilePath('/berkas/skl/')
+ 4 APPPATH\Controllers\Login.php(57): CodeIgniter\HTTP\Response->download('', null)
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Login->download()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+CRITICAL - 2023-12-27 16:55:45 --> File not found: "/berkas/skl/"
+in SYSTEMPATH\Files\File.php on line 49.
+ 1 SYSTEMPATH\Files\File.php(49): CodeIgniter\Files\Exceptions\FileNotFoundException::forFileNotFound('/berkas/skl/')
+ 2 SYSTEMPATH\HTTP\DownloadResponse.php(104): CodeIgniter\Files\File->__construct('/berkas/skl/', true)
+ 3 SYSTEMPATH\HTTP\ResponseTrait.php(806): CodeIgniter\HTTP\DownloadResponse->setFilePath('/berkas/skl/')
+ 4 APPPATH\Controllers\Login.php(57): CodeIgniter\HTTP\Response->download('', null)
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Login->download()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+CRITICAL - 2023-12-27 16:55:46 --> File not found: "/berkas/skl/"
+in SYSTEMPATH\Files\File.php on line 49.
+ 1 SYSTEMPATH\Files\File.php(49): CodeIgniter\Files\Exceptions\FileNotFoundException::forFileNotFound('/berkas/skl/')
+ 2 SYSTEMPATH\HTTP\DownloadResponse.php(104): CodeIgniter\Files\File->__construct('/berkas/skl/', true)
+ 3 SYSTEMPATH\HTTP\ResponseTrait.php(806): CodeIgniter\HTTP\DownloadResponse->setFilePath('/berkas/skl/')
+ 4 APPPATH\Controllers\Login.php(57): CodeIgniter\HTTP\Response->download('', null)
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Login->download()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+CRITICAL - 2023-12-27 16:55:46 --> File not found: "/berkas/skl/"
+in SYSTEMPATH\Files\File.php on line 49.
+ 1 SYSTEMPATH\Files\File.php(49): CodeIgniter\Files\Exceptions\FileNotFoundException::forFileNotFound('/berkas/skl/')
+ 2 SYSTEMPATH\HTTP\DownloadResponse.php(104): CodeIgniter\Files\File->__construct('/berkas/skl/', true)
+ 3 SYSTEMPATH\HTTP\ResponseTrait.php(806): CodeIgniter\HTTP\DownloadResponse->setFilePath('/berkas/skl/')
+ 4 APPPATH\Controllers\Login.php(57): CodeIgniter\HTTP\Response->download('', null)
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Login->download()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+CRITICAL - 2023-12-27 16:55:46 --> File not found: "/berkas/skl/"
+in SYSTEMPATH\Files\File.php on line 49.
+ 1 SYSTEMPATH\Files\File.php(49): CodeIgniter\Files\Exceptions\FileNotFoundException::forFileNotFound('/berkas/skl/')
+ 2 SYSTEMPATH\HTTP\DownloadResponse.php(104): CodeIgniter\Files\File->__construct('/berkas/skl/', true)
+ 3 SYSTEMPATH\HTTP\ResponseTrait.php(806): CodeIgniter\HTTP\DownloadResponse->setFilePath('/berkas/skl/')
+ 4 APPPATH\Controllers\Login.php(57): CodeIgniter\HTTP\Response->download('', null)
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Login->download()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+CRITICAL - 2023-12-27 16:59:38 --> File not found: "/berkas/skl/"
+in SYSTEMPATH\Files\File.php on line 49.
+ 1 SYSTEMPATH\Files\File.php(49): CodeIgniter\Files\Exceptions\FileNotFoundException::forFileNotFound('/berkas/skl/')
+ 2 SYSTEMPATH\HTTP\DownloadResponse.php(104): CodeIgniter\Files\File->__construct('/berkas/skl/', true)
+ 3 SYSTEMPATH\HTTP\ResponseTrait.php(806): CodeIgniter\HTTP\DownloadResponse->setFilePath('/berkas/skl/')
+ 4 APPPATH\Controllers\Login.php(57): CodeIgniter\HTTP\Response->download('', null)
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Login->download()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+CRITICAL - 2023-12-27 17:01:21 --> File not found: "/berkas/skl/"
+in SYSTEMPATH\Files\File.php on line 49.
+ 1 SYSTEMPATH\Files\File.php(49): CodeIgniter\Files\Exceptions\FileNotFoundException::forFileNotFound('/berkas/skl/')
+ 2 SYSTEMPATH\HTTP\DownloadResponse.php(104): CodeIgniter\Files\File->__construct('/berkas/skl/', true)
+ 3 SYSTEMPATH\HTTP\ResponseTrait.php(806): CodeIgniter\HTTP\DownloadResponse->setFilePath('/berkas/skl/')
+ 4 APPPATH\Controllers\Login.php(57): CodeIgniter\HTTP\Response->download('', null)
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Login->download()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+CRITICAL - 2023-12-27 17:02:11 --> File not found: "\public\berkas\skl"
+in SYSTEMPATH\Files\File.php on line 49.
+ 1 SYSTEMPATH\Files\File.php(49): CodeIgniter\Files\Exceptions\FileNotFoundException::forFileNotFound('\\public\\berkas\\skl')
+ 2 SYSTEMPATH\HTTP\DownloadResponse.php(104): CodeIgniter\Files\File->__construct('\\public\\berkas\\skl', true)
+ 3 SYSTEMPATH\HTTP\ResponseTrait.php(806): CodeIgniter\HTTP\DownloadResponse->setFilePath('\\public\\berkas\\skl')
+ 4 APPPATH\Controllers\Login.php(57): CodeIgniter\HTTP\Response->download('skl', null)
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Login->download()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+INFO - 2023-12-27 17:03:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-27 17:03:40 --> File not found: "/public/berkas/skl/1.pdf"
+in SYSTEMPATH\Files\File.php on line 49.
+ 1 SYSTEMPATH\Files\File.php(49): CodeIgniter\Files\Exceptions\FileNotFoundException::forFileNotFound('/public/berkas/skl/1.pdf')
+ 2 SYSTEMPATH\HTTP\DownloadResponse.php(104): CodeIgniter\Files\File->__construct('/public/berkas/skl/1.pdf', true)
+ 3 SYSTEMPATH\HTTP\ResponseTrait.php(806): CodeIgniter\HTTP\DownloadResponse->setFilePath('/public/berkas/skl/1.pdf')
+ 4 APPPATH\Controllers\Login.php(57): CodeIgniter\HTTP\Response->download('1.pdf', null)
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Login->download()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+CRITICAL - 2023-12-27 17:06:47 --> File not found: "public/berkas/skl/1.pdf"
+in SYSTEMPATH\Files\File.php on line 49.
+ 1 SYSTEMPATH\Files\File.php(49): CodeIgniter\Files\Exceptions\FileNotFoundException::forFileNotFound('public/berkas/skl/1.pdf')
+ 2 SYSTEMPATH\HTTP\DownloadResponse.php(104): CodeIgniter\Files\File->__construct('public/berkas/skl/1.pdf', true)
+ 3 SYSTEMPATH\HTTP\ResponseTrait.php(806): CodeIgniter\HTTP\DownloadResponse->setFilePath('public/berkas/skl/1.pdf')
+ 4 APPPATH\Controllers\Login.php(57): CodeIgniter\HTTP\Response->download('1.pdf', null)
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Login->download()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+INFO - 2023-12-27 17:07:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-27 17:08:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-27 17:08:26 --> File not found: "berkas/skl/"
+in SYSTEMPATH\Files\File.php on line 49.
+ 1 SYSTEMPATH\Files\File.php(49): CodeIgniter\Files\Exceptions\FileNotFoundException::forFileNotFound('berkas/skl/')
+ 2 SYSTEMPATH\HTTP\DownloadResponse.php(104): CodeIgniter\Files\File->__construct('berkas/skl/', true)
+ 3 SYSTEMPATH\HTTP\ResponseTrait.php(806): CodeIgniter\HTTP\DownloadResponse->setFilePath('berkas/skl/')
+ 4 APPPATH\Controllers\Login.php(57): CodeIgniter\HTTP\Response->download('', null)
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Login->download()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+CRITICAL - 2023-12-27 17:08:44 --> File not found: "berkas/skl/"
+in SYSTEMPATH\Files\File.php on line 49.
+ 1 SYSTEMPATH\Files\File.php(49): CodeIgniter\Files\Exceptions\FileNotFoundException::forFileNotFound('berkas/skl/')
+ 2 SYSTEMPATH\HTTP\DownloadResponse.php(104): CodeIgniter\Files\File->__construct('berkas/skl/', true)
+ 3 SYSTEMPATH\HTTP\ResponseTrait.php(806): CodeIgniter\HTTP\DownloadResponse->setFilePath('berkas/skl/')
+ 4 APPPATH\Controllers\Login.php(57): CodeIgniter\HTTP\Response->download('', null)
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Login->download()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+CRITICAL - 2023-12-27 17:08:45 --> File not found: "berkas/skl/"
+in SYSTEMPATH\Files\File.php on line 49.
+ 1 SYSTEMPATH\Files\File.php(49): CodeIgniter\Files\Exceptions\FileNotFoundException::forFileNotFound('berkas/skl/')
+ 2 SYSTEMPATH\HTTP\DownloadResponse.php(104): CodeIgniter\Files\File->__construct('berkas/skl/', true)
+ 3 SYSTEMPATH\HTTP\ResponseTrait.php(806): CodeIgniter\HTTP\DownloadResponse->setFilePath('berkas/skl/')
+ 4 APPPATH\Controllers\Login.php(57): CodeIgniter\HTTP\Response->download('', null)
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Login->download()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+INFO - 2023-12-27 17:08:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-27 17:11:16 --> File not found: "berkas/skl/"
+in SYSTEMPATH\Files\File.php on line 49.
+ 1 SYSTEMPATH\Files\File.php(49): CodeIgniter\Files\Exceptions\FileNotFoundException::forFileNotFound('berkas/skl/')
+ 2 SYSTEMPATH\HTTP\DownloadResponse.php(104): CodeIgniter\Files\File->__construct('berkas/skl/', true)
+ 3 SYSTEMPATH\HTTP\ResponseTrait.php(806): CodeIgniter\HTTP\DownloadResponse->setFilePath('berkas/skl/')
+ 4 APPPATH\Controllers\Login.php(55): CodeIgniter\HTTP\Response->download('', null)
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Login->download()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+INFO - 2023-12-27 17:11:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-27 17:11:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-27 17:11:34 --> File not found: "berkas/skl/"
+in SYSTEMPATH\Files\File.php on line 49.
+ 1 SYSTEMPATH\Files\File.php(49): CodeIgniter\Files\Exceptions\FileNotFoundException::forFileNotFound('berkas/skl/')
+ 2 SYSTEMPATH\HTTP\DownloadResponse.php(104): CodeIgniter\Files\File->__construct('berkas/skl/', true)
+ 3 SYSTEMPATH\HTTP\ResponseTrait.php(806): CodeIgniter\HTTP\DownloadResponse->setFilePath('berkas/skl/')
+ 4 APPPATH\Controllers\Login.php(55): CodeIgniter\HTTP\Response->download('', null)
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Login->download()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+INFO - 2023-12-27 17:11:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-27 17:13:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-27 17:13:09 --> File not found: "berkas/skl/"
+in SYSTEMPATH\Files\File.php on line 49.
+ 1 SYSTEMPATH\Files\File.php(49): CodeIgniter\Files\Exceptions\FileNotFoundException::forFileNotFound('berkas/skl/')
+ 2 SYSTEMPATH\HTTP\DownloadResponse.php(104): CodeIgniter\Files\File->__construct('berkas/skl/', true)
+ 3 SYSTEMPATH\HTTP\ResponseTrait.php(806): CodeIgniter\HTTP\DownloadResponse->setFilePath('berkas/skl/')
+ 4 APPPATH\Controllers\Login.php(56): CodeIgniter\HTTP\Response->download('', null)
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Login->download()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+INFO - 2023-12-27 17:13:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-27 17:13:40 --> File not found: "berkas/skl/"
+in SYSTEMPATH\Files\File.php on line 49.
+ 1 SYSTEMPATH\Files\File.php(49): CodeIgniter\Files\Exceptions\FileNotFoundException::forFileNotFound('berkas/skl/')
+ 2 SYSTEMPATH\HTTP\DownloadResponse.php(104): CodeIgniter\Files\File->__construct('berkas/skl/', true)
+ 3 SYSTEMPATH\HTTP\ResponseTrait.php(806): CodeIgniter\HTTP\DownloadResponse->setFilePath('berkas/skl/')
+ 4 APPPATH\Controllers\Login.php(56): CodeIgniter\HTTP\Response->download('', null)
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Login->download()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+INFO - 2023-12-27 17:13:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-27 17:14:00 --> File not found: "berkas/skl/"
+in SYSTEMPATH\Files\File.php on line 49.
+ 1 SYSTEMPATH\Files\File.php(49): CodeIgniter\Files\Exceptions\FileNotFoundException::forFileNotFound('berkas/skl/')
+ 2 SYSTEMPATH\HTTP\DownloadResponse.php(104): CodeIgniter\Files\File->__construct('berkas/skl/', true)
+ 3 SYSTEMPATH\HTTP\ResponseTrait.php(806): CodeIgniter\HTTP\DownloadResponse->setFilePath('berkas/skl/')
+ 4 APPPATH\Controllers\Login.php(56): CodeIgniter\HTTP\Response->download('', null)
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Login->download()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+INFO - 2023-12-27 17:14:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-27 17:14:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-27 17:14:49 --> File not found: "berkas/skl/"
+in SYSTEMPATH\Files\File.php on line 49.
+ 1 SYSTEMPATH\Files\File.php(49): CodeIgniter\Files\Exceptions\FileNotFoundException::forFileNotFound('berkas/skl/')
+ 2 SYSTEMPATH\HTTP\DownloadResponse.php(104): CodeIgniter\Files\File->__construct('berkas/skl/', true)
+ 3 SYSTEMPATH\HTTP\ResponseTrait.php(806): CodeIgniter\HTTP\DownloadResponse->setFilePath('berkas/skl/')
+ 4 APPPATH\Controllers\Login.php(56): CodeIgniter\HTTP\Response->download('', null)
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Login->download()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+INFO - 2023-12-27 17:14:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-27 17:15:34 --> File not found: "berkas/skl/"
+in SYSTEMPATH\Files\File.php on line 49.
+ 1 SYSTEMPATH\Files\File.php(49): CodeIgniter\Files\Exceptions\FileNotFoundException::forFileNotFound('berkas/skl/')
+ 2 SYSTEMPATH\HTTP\DownloadResponse.php(104): CodeIgniter\Files\File->__construct('berkas/skl/', true)
+ 3 SYSTEMPATH\HTTP\ResponseTrait.php(806): CodeIgniter\HTTP\DownloadResponse->setFilePath('berkas/skl/')
+ 4 APPPATH\Controllers\Login.php(56): CodeIgniter\HTTP\Response->download('', null)
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Login->download()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+INFO - 2023-12-27 17:15:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-27 17:15:57 --> File not found: "berkas/skl/$ModelLogin->berkas"
+in SYSTEMPATH\Files\File.php on line 49.
+ 1 SYSTEMPATH\Files\File.php(49): CodeIgniter\Files\Exceptions\FileNotFoundException::forFileNotFound('berkas/skl/$ModelLogin->berkas')
+ 2 SYSTEMPATH\HTTP\DownloadResponse.php(104): CodeIgniter\Files\File->__construct('berkas/skl/$ModelLogin->berkas', true)
+ 3 SYSTEMPATH\HTTP\ResponseTrait.php(806): CodeIgniter\HTTP\DownloadResponse->setFilePath('berkas/skl/$ModelLogin->berkas')
+ 4 APPPATH\Controllers\Login.php(56): CodeIgniter\HTTP\Response->download('$ModelLogin->berkas', null)
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Login->download()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+INFO - 2023-12-27 17:16:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-27 17:18:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-27 17:18:25 --> File not found: "berkas/skl/"
+in SYSTEMPATH\Files\File.php on line 49.
+ 1 SYSTEMPATH\Files\File.php(49): CodeIgniter\Files\Exceptions\FileNotFoundException::forFileNotFound('berkas/skl/')
+ 2 SYSTEMPATH\HTTP\DownloadResponse.php(104): CodeIgniter\Files\File->__construct('berkas/skl/', true)
+ 3 SYSTEMPATH\HTTP\ResponseTrait.php(806): CodeIgniter\HTTP\DownloadResponse->setFilePath('berkas/skl/')
+ 4 APPPATH\Controllers\Login.php(57): CodeIgniter\HTTP\Response->download('', null)
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Login->download()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+INFO - 2023-12-27 17:18:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-27 17:18:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-27 17:18:43 --> Attempt to read property "berkas" on array
+in APPPATH\Controllers\Login.php on line 57.
+ 1 APPPATH\Controllers\Login.php(57): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "berkas" on array', 'D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\app\\Controllers\\Login.php', 57)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Login->download()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+CRITICAL - 2023-12-27 17:19:29 --> Attempt to read property "berkas" on null
+in APPPATH\Controllers\Login.php on line 57.
+ 1 APPPATH\Controllers\Login.php(57): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "berkas" on null', 'D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\app\\Controllers\\Login.php', 57)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Login->download()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+CRITICAL - 2023-12-27 17:19:36 --> Attempt to read property "berkas" on array
+in APPPATH\Controllers\Login.php on line 57.
+ 1 APPPATH\Controllers\Login.php(57): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "berkas" on array', 'D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\app\\Controllers\\Login.php', 57)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Login->download()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+CRITICAL - 2023-12-27 17:19:58 --> Attempt to read property "berkas" on array
+in APPPATH\Controllers\Login.php on line 56.
+ 1 APPPATH\Controllers\Login.php(56): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "berkas" on array', 'D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\app\\Controllers\\Login.php', 56)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Login->download()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+CRITICAL - 2023-12-27 17:20:40 --> Too few arguments to function App\Controllers\Login::download(), 0 passed in D:\Udin\SMP 1\web\pengumuman_kelulusan\system\CodeIgniter.php on line 942 and exactly 1 expected
+in APPPATH\Controllers\Login.php on line 50.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Login->download()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+CRITICAL - 2023-12-27 17:20:55 --> Too few arguments to function App\Controllers\Login::download(), 0 passed in D:\Udin\SMP 1\web\pengumuman_kelulusan\system\CodeIgniter.php on line 942 and exactly 1 expected
+in APPPATH\Controllers\Login.php on line 50.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Login->download()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+CRITICAL - 2023-12-27 17:21:19 --> Attempt to read property "berkas" on array
+in APPPATH\Controllers\Login.php on line 56.
+ 1 APPPATH\Controllers\Login.php(56): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "berkas" on array', 'D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\app\\Controllers\\Login.php', 56)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Login->download()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+CRITICAL - 2023-12-27 17:21:34 --> Too few arguments to function App\Controllers\Login::download(), 0 passed in D:\Udin\SMP 1\web\pengumuman_kelulusan\system\CodeIgniter.php on line 942 and exactly 1 expected
+in APPPATH\Controllers\Login.php on line 50.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Login->download()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+CRITICAL - 2023-12-27 17:21:41 --> Attempt to read property "berkas" on array
+in APPPATH\Controllers\Login.php on line 56.
+ 1 APPPATH\Controllers\Login.php(56): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "berkas" on array', 'D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\app\\Controllers\\Login.php', 56)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Login->download()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+CRITICAL - 2023-12-27 17:22:04 --> Attempt to read property "berkas" on array
+in APPPATH\Controllers\Login.php on line 56.
+ 1 APPPATH\Controllers\Login.php(56): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "berkas" on array', 'D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\app\\Controllers\\Login.php', 56)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Login->download()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+CRITICAL - 2023-12-27 17:22:16 --> Attempt to read property "berkas" on array
+in APPPATH\Controllers\Login.php on line 56.
+ 1 APPPATH\Controllers\Login.php(56): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "berkas" on array', 'D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\app\\Controllers\\Login.php', 56)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Login->download()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+CRITICAL - 2023-12-27 17:26:36 --> Attempt to read property "nisn" on array
+in APPPATH\Controllers\Login.php on line 56.
+ 1 APPPATH\Controllers\Login.php(56): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "nisn" on array', 'D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\app\\Controllers\\Login.php', 56)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Login->download()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+CRITICAL - 2023-12-27 17:28:40 --> Attempt to read property "nisn" on array
+in APPPATH\Controllers\Login.php on line 56.
+ 1 APPPATH\Controllers\Login.php(56): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "nisn" on array', 'D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\app\\Controllers\\Login.php', 56)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Login->download()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+CRITICAL - 2023-12-27 17:28:48 --> Attempt to read property "berkas" on array
+in APPPATH\Controllers\Login.php on line 56.
+ 1 APPPATH\Controllers\Login.php(56): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "berkas" on array', 'D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\app\\Controllers\\Login.php', 56)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Login->download()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+CRITICAL - 2023-12-27 17:32:17 --> Attempt to read property "berkas" on array
+in APPPATH\Controllers\Login.php on line 56.
+ 1 APPPATH\Controllers\Login.php(56): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "berkas" on array', 'D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\app\\Controllers\\Login.php', 56)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Login->download()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+INFO - 2023-12-27 17:42:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-27 17:42:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-27 17:42:10 --> Attempt to read property "berkas" on null
+in APPPATH\Controllers\Download.php on line 15.
+ 1 APPPATH\Controllers\Download.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "berkas" on null', 'D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\app\\Controllers\\Download.php', 15)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Download->download()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Download))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+INFO - 2023-12-27 17:42:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-27 17:42:14 --> Attempt to read property "berkas" on null
+in APPPATH\Controllers\Download.php on line 15.
+ 1 APPPATH\Controllers\Download.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "berkas" on null', 'D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\app\\Controllers\\Download.php', 15)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Download->download()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Download))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+CRITICAL - 2023-12-27 17:42:55 --> File not found: "berkas/skl/"
+in SYSTEMPATH\Files\File.php on line 49.
+ 1 SYSTEMPATH\Files\File.php(49): CodeIgniter\Files\Exceptions\FileNotFoundException::forFileNotFound('berkas/skl/')
+ 2 SYSTEMPATH\HTTP\DownloadResponse.php(104): CodeIgniter\Files\File->__construct('berkas/skl/', true)
+ 3 SYSTEMPATH\HTTP\ResponseTrait.php(806): CodeIgniter\HTTP\DownloadResponse->setFilePath('berkas/skl/')
+ 4 APPPATH\Controllers\Download.php(15): CodeIgniter\HTTP\Response->download('', null)
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Download->download()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Download))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+CRITICAL - 2023-12-27 17:43:42 --> Call to undefined method App\Models\LoginModel::getPost
+in SYSTEMPATH\Model.php on line 873.
+ 1 APPPATH\Controllers\Download.php(12): CodeIgniter\Model->__call('getPost', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Download->download()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Download))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+CRITICAL - 2023-12-27 17:44:06 --> File not found: "berkas/skl/"
+in SYSTEMPATH\Files\File.php on line 49.
+ 1 SYSTEMPATH\Files\File.php(49): CodeIgniter\Files\Exceptions\FileNotFoundException::forFileNotFound('berkas/skl/')
+ 2 SYSTEMPATH\HTTP\DownloadResponse.php(104): CodeIgniter\Files\File->__construct('berkas/skl/', true)
+ 3 SYSTEMPATH\HTTP\ResponseTrait.php(806): CodeIgniter\HTTP\DownloadResponse->setFilePath('berkas/skl/')
+ 4 APPPATH\Controllers\Download.php(14): CodeIgniter\HTTP\Response->download('', null)
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Download->download()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Download))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+CRITICAL - 2023-12-27 17:44:41 --> Too few arguments to function App\Controllers\Download::download(), 0 passed in D:\Udin\SMP 1\web\pengumuman_kelulusan\system\CodeIgniter.php on line 942 and exactly 1 expected
+in APPPATH\Controllers\Download.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Download->download()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Download))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+CRITICAL - 2023-12-27 17:45:32 --> Too few arguments to function App\Controllers\Download::download(), 0 passed in D:\Udin\SMP 1\web\pengumuman_kelulusan\system\CodeIgniter.php on line 942 and exactly 1 expected
+in APPPATH\Controllers\Download.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Download->download()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Download))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+CRITICAL - 2023-12-27 17:45:33 --> Too few arguments to function App\Controllers\Download::download(), 0 passed in D:\Udin\SMP 1\web\pengumuman_kelulusan\system\CodeIgniter.php on line 942 and exactly 1 expected
+in APPPATH\Controllers\Download.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Download->download()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Download))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+CRITICAL - 2023-12-27 17:45:33 --> Too few arguments to function App\Controllers\Download::download(), 0 passed in D:\Udin\SMP 1\web\pengumuman_kelulusan\system\CodeIgniter.php on line 942 and exactly 1 expected
+in APPPATH\Controllers\Download.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Download->download()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Download))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+CRITICAL - 2023-12-27 17:45:33 --> Too few arguments to function App\Controllers\Download::download(), 0 passed in D:\Udin\SMP 1\web\pengumuman_kelulusan\system\CodeIgniter.php on line 942 and exactly 1 expected
+in APPPATH\Controllers\Download.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Download->download()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Download))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+CRITICAL - 2023-12-27 17:45:33 --> Too few arguments to function App\Controllers\Download::download(), 0 passed in D:\Udin\SMP 1\web\pengumuman_kelulusan\system\CodeIgniter.php on line 942 and exactly 1 expected
+in APPPATH\Controllers\Download.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Download->download()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Download))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+CRITICAL - 2023-12-27 17:45:33 --> Too few arguments to function App\Controllers\Download::download(), 0 passed in D:\Udin\SMP 1\web\pengumuman_kelulusan\system\CodeIgniter.php on line 942 and exactly 1 expected
+in APPPATH\Controllers\Download.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Download->download()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Download))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+CRITICAL - 2023-12-27 17:46:02 --> Too few arguments to function App\Controllers\Download::download(), 0 passed in D:\Udin\SMP 1\web\pengumuman_kelulusan\system\CodeIgniter.php on line 942 and exactly 1 expected
+in APPPATH\Controllers\Download.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Download->download()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Download))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+CRITICAL - 2023-12-27 17:46:02 --> Too few arguments to function App\Controllers\Download::download(), 0 passed in D:\Udin\SMP 1\web\pengumuman_kelulusan\system\CodeIgniter.php on line 942 and exactly 1 expected
+in APPPATH\Controllers\Download.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Download->download()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Download))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+CRITICAL - 2023-12-27 17:46:03 --> Too few arguments to function App\Controllers\Download::download(), 0 passed in D:\Udin\SMP 1\web\pengumuman_kelulusan\system\CodeIgniter.php on line 942 and exactly 1 expected
+in APPPATH\Controllers\Download.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Download->download()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Download))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+CRITICAL - 2023-12-27 17:46:03 --> Too few arguments to function App\Controllers\Download::download(), 0 passed in D:\Udin\SMP 1\web\pengumuman_kelulusan\system\CodeIgniter.php on line 942 and exactly 1 expected
+in APPPATH\Controllers\Download.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Download->download()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Download))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+CRITICAL - 2023-12-27 17:46:03 --> Too few arguments to function App\Controllers\Download::download(), 0 passed in D:\Udin\SMP 1\web\pengumuman_kelulusan\system\CodeIgniter.php on line 942 and exactly 1 expected
+in APPPATH\Controllers\Download.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Download->download()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Download))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+CRITICAL - 2023-12-27 17:46:03 --> Too few arguments to function App\Controllers\Download::download(), 0 passed in D:\Udin\SMP 1\web\pengumuman_kelulusan\system\CodeIgniter.php on line 942 and exactly 1 expected
+in APPPATH\Controllers\Download.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Download->download()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Download))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+CRITICAL - 2023-12-27 17:49:18 --> Too few arguments to function App\Controllers\Download::download(), 0 passed in D:\Udin\SMP 1\web\pengumuman_kelulusan\system\CodeIgniter.php on line 942 and exactly 1 expected
+in APPPATH\Controllers\Download.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Download->download()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Download))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+CRITICAL - 2023-12-27 17:49:19 --> Too few arguments to function App\Controllers\Download::download(), 0 passed in D:\Udin\SMP 1\web\pengumuman_kelulusan\system\CodeIgniter.php on line 942 and exactly 1 expected
+in APPPATH\Controllers\Download.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Download->download()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Download))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+CRITICAL - 2023-12-27 17:49:40 --> Attempt to read property "berkas" on null
+in APPPATH\Controllers\Download.php on line 15.
+ 1 APPPATH\Controllers\Download.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "berkas" on null', 'D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\app\\Controllers\\Download.php', 15)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Download->download()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Download))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+CRITICAL - 2023-12-27 17:49:41 --> Attempt to read property "berkas" on null
+in APPPATH\Controllers\Download.php on line 15.
+ 1 APPPATH\Controllers\Download.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "berkas" on null', 'D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\app\\Controllers\\Download.php', 15)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Download->download()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Download))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+CRITICAL - 2023-12-27 17:49:41 --> Attempt to read property "berkas" on null
+in APPPATH\Controllers\Download.php on line 15.
+ 1 APPPATH\Controllers\Download.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "berkas" on null', 'D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\app\\Controllers\\Download.php', 15)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Download->download()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Download))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+CRITICAL - 2023-12-27 17:49:41 --> Attempt to read property "berkas" on null
+in APPPATH\Controllers\Download.php on line 15.
+ 1 APPPATH\Controllers\Download.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "berkas" on null', 'D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\app\\Controllers\\Download.php', 15)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Download->download()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Download))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+CRITICAL - 2023-12-27 17:52:50 --> Too few arguments to function App\Controllers\Download::download(), 0 passed in D:\Udin\SMP 1\web\pengumuman_kelulusan\system\CodeIgniter.php on line 942 and exactly 1 expected
+in APPPATH\Controllers\Download.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Download->download()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Download))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+CRITICAL - 2023-12-27 17:53:13 --> Attempt to read property "berkas" on array
+in APPPATH\Controllers\Download.php on line 15.
+ 1 APPPATH\Controllers\Download.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "berkas" on array', 'D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\app\\Controllers\\Download.php', 15)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Download->download()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Download))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+CRITICAL - 2023-12-27 17:53:48 --> Attempt to read property "berkas" on null
+in APPPATH\Controllers\Download.php on line 15.
+ 1 APPPATH\Controllers\Download.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "berkas" on null', 'D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\app\\Controllers\\Download.php', 15)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Download->download()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Download))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+CRITICAL - 2023-12-27 17:53:49 --> Attempt to read property "berkas" on null
+in APPPATH\Controllers\Download.php on line 15.
+ 1 APPPATH\Controllers\Download.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "berkas" on null', 'D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\app\\Controllers\\Download.php', 15)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Download->download()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Download))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+CRITICAL - 2023-12-27 17:53:49 --> Attempt to read property "berkas" on null
+in APPPATH\Controllers\Download.php on line 15.
+ 1 APPPATH\Controllers\Download.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "berkas" on null', 'D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\app\\Controllers\\Download.php', 15)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Download->download()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Download))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+CRITICAL - 2023-12-27 17:55:30 --> Too few arguments to function App\Controllers\Download::download(), 0 passed in D:\Udin\SMP 1\web\pengumuman_kelulusan\system\CodeIgniter.php on line 942 and exactly 1 expected
+in APPPATH\Controllers\Download.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Download->download()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Download))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+CRITICAL - 2023-12-27 17:55:40 --> Attempt to read property "berkas" on null
+in APPPATH\Controllers\Download.php on line 15.
+ 1 APPPATH\Controllers\Download.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "berkas" on null', 'D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\app\\Controllers\\Download.php', 15)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Download->download()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Download))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+CRITICAL - 2023-12-27 17:55:41 --> Attempt to read property "berkas" on null
+in APPPATH\Controllers\Download.php on line 15.
+ 1 APPPATH\Controllers\Download.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "berkas" on null', 'D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\app\\Controllers\\Download.php', 15)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Download->download()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Download))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+CRITICAL - 2023-12-27 17:55:41 --> Attempt to read property "berkas" on null
+in APPPATH\Controllers\Download.php on line 15.
+ 1 APPPATH\Controllers\Download.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "berkas" on null', 'D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\app\\Controllers\\Download.php', 15)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Download->download()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Download))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+CRITICAL - 2023-12-27 17:55:42 --> Attempt to read property "berkas" on null
+in APPPATH\Controllers\Download.php on line 15.
+ 1 APPPATH\Controllers\Download.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "berkas" on null', 'D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\app\\Controllers\\Download.php', 15)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Download->download()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Download))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+CRITICAL - 2023-12-27 17:55:42 --> Attempt to read property "berkas" on null
+in APPPATH\Controllers\Download.php on line 15.
+ 1 APPPATH\Controllers\Download.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "berkas" on null', 'D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\app\\Controllers\\Download.php', 15)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Download->download()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Download))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+CRITICAL - 2023-12-27 17:55:42 --> Attempt to read property "berkas" on null
+in APPPATH\Controllers\Download.php on line 15.
+ 1 APPPATH\Controllers\Download.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "berkas" on null', 'D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\app\\Controllers\\Download.php', 15)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Download->download()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Download))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+CRITICAL - 2023-12-27 17:55:42 --> Attempt to read property "berkas" on null
+in APPPATH\Controllers\Download.php on line 15.
+ 1 APPPATH\Controllers\Download.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "berkas" on null', 'D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\app\\Controllers\\Download.php', 15)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Download->download()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Download))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+CRITICAL - 2023-12-27 17:55:42 --> Attempt to read property "berkas" on null
+in APPPATH\Controllers\Download.php on line 15.
+ 1 APPPATH\Controllers\Download.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "berkas" on null', 'D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\app\\Controllers\\Download.php', 15)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Download->download()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Download))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+CRITICAL - 2023-12-27 17:55:42 --> Attempt to read property "berkas" on null
+in APPPATH\Controllers\Download.php on line 15.
+ 1 APPPATH\Controllers\Download.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "berkas" on null', 'D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\app\\Controllers\\Download.php', 15)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Download->download()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Download))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+CRITICAL - 2023-12-27 17:58:06 --> Attempt to read property "berkas" on null
+in APPPATH\Controllers\Download.php on line 16.
+ 1 APPPATH\Controllers\Download.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "berkas" on null', 'D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\app\\Controllers\\Download.php', 16)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Download->download()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Download))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+CRITICAL - 2023-12-27 17:58:06 --> Attempt to read property "berkas" on null
+in APPPATH\Controllers\Download.php on line 16.
+ 1 APPPATH\Controllers\Download.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "berkas" on null', 'D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\app\\Controllers\\Download.php', 16)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Download->download()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Download))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+CRITICAL - 2023-12-27 17:58:42 --> Attempt to read property "nisn" on null
+in APPPATH\Controllers\Download.php on line 15.
+ 1 APPPATH\Controllers\Download.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "nisn" on null', 'D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\app\\Controllers\\Download.php', 15)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Download->download()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Download))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+CRITICAL - 2023-12-27 17:58:47 --> Attempt to read property "berkas" on null
+in APPPATH\Controllers\Download.php on line 15.
+ 1 APPPATH\Controllers\Download.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "berkas" on null', 'D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\app\\Controllers\\Download.php', 15)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Download->download()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Download))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+CRITICAL - 2023-12-27 17:58:56 --> Attempt to read property "berkas" on null
+in APPPATH\Controllers\Download.php on line 15.
+ 1 APPPATH\Controllers\Download.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "berkas" on null', 'D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\app\\Controllers\\Download.php', 15)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Download->download()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Download))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+CRITICAL - 2023-12-27 17:58:57 --> Attempt to read property "berkas" on null
+in APPPATH\Controllers\Download.php on line 15.
+ 1 APPPATH\Controllers\Download.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "berkas" on null', 'D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\app\\Controllers\\Download.php', 15)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Download->download()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Download))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+CRITICAL - 2023-12-27 17:58:58 --> Attempt to read property "berkas" on null
+in APPPATH\Controllers\Download.php on line 15.
+ 1 APPPATH\Controllers\Download.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "berkas" on null', 'D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\app\\Controllers\\Download.php', 15)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Download->download()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Download))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+CRITICAL - 2023-12-27 17:58:58 --> Attempt to read property "berkas" on null
+in APPPATH\Controllers\Download.php on line 15.
+ 1 APPPATH\Controllers\Download.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "berkas" on null', 'D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\app\\Controllers\\Download.php', 15)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Download->download()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Download))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+CRITICAL - 2023-12-27 17:58:58 --> Attempt to read property "berkas" on null
+in APPPATH\Controllers\Download.php on line 15.
+ 1 APPPATH\Controllers\Download.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "berkas" on null', 'D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\app\\Controllers\\Download.php', 15)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Download->download()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Download))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+CRITICAL - 2023-12-27 17:58:58 --> Attempt to read property "berkas" on null
+in APPPATH\Controllers\Download.php on line 15.
+ 1 APPPATH\Controllers\Download.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "berkas" on null', 'D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\app\\Controllers\\Download.php', 15)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Download->download()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Download))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+CRITICAL - 2023-12-27 17:58:59 --> Attempt to read property "berkas" on null
+in APPPATH\Controllers\Download.php on line 15.
+ 1 APPPATH\Controllers\Download.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "berkas" on null', 'D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\app\\Controllers\\Download.php', 15)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Download->download()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Download))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+CRITICAL - 2023-12-27 17:58:59 --> Attempt to read property "berkas" on null
+in APPPATH\Controllers\Download.php on line 15.
+ 1 APPPATH\Controllers\Download.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "berkas" on null', 'D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\app\\Controllers\\Download.php', 15)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Download->download()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Download))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+CRITICAL - 2023-12-27 17:58:59 --> Attempt to read property "berkas" on null
+in APPPATH\Controllers\Download.php on line 15.
+ 1 APPPATH\Controllers\Download.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "berkas" on null', 'D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\app\\Controllers\\Download.php', 15)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Download->download()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Download))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+CRITICAL - 2023-12-27 17:58:59 --> Attempt to read property "berkas" on null
+in APPPATH\Controllers\Download.php on line 15.
+ 1 APPPATH\Controllers\Download.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "berkas" on null', 'D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\app\\Controllers\\Download.php', 15)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Download->download()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Download))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+CRITICAL - 2023-12-27 17:58:59 --> Attempt to read property "berkas" on null
+in APPPATH\Controllers\Download.php on line 15.
+ 1 APPPATH\Controllers\Download.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "berkas" on null', 'D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\app\\Controllers\\Download.php', 15)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Download->download()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Download))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+CRITICAL - 2023-12-27 17:59:00 --> Attempt to read property "berkas" on null
+in APPPATH\Controllers\Download.php on line 15.
+ 1 APPPATH\Controllers\Download.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "berkas" on null', 'D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\app\\Controllers\\Download.php', 15)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Download->download()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Download))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+CRITICAL - 2023-12-27 17:59:00 --> Attempt to read property "berkas" on null
+in APPPATH\Controllers\Download.php on line 15.
+ 1 APPPATH\Controllers\Download.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "berkas" on null', 'D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\app\\Controllers\\Download.php', 15)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Download->download()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Download))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+CRITICAL - 2023-12-27 17:59:00 --> Attempt to read property "berkas" on null
+in APPPATH\Controllers\Download.php on line 15.
+ 1 APPPATH\Controllers\Download.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "berkas" on null', 'D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\app\\Controllers\\Download.php', 15)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Download->download()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Download))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+CRITICAL - 2023-12-27 17:59:00 --> Attempt to read property "berkas" on null
+in APPPATH\Controllers\Download.php on line 15.
+ 1 APPPATH\Controllers\Download.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "berkas" on null', 'D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\app\\Controllers\\Download.php', 15)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Download->download()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Download))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
+CRITICAL - 2023-12-27 18:01:44 --> Attempt to read property "berkas" on null
+in APPPATH\Controllers\Download.php on line 15.
+ 1 APPPATH\Controllers\Download.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "berkas" on null', 'D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\app\\Controllers\\Download.php', 15)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Download->download()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Download))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Udin\\SMP 1\\web\\pengumuman_kelulusan\\public\\index.php')
