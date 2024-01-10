@@ -1,0 +1,10 @@
+INFO - 2024-01-09 15:02:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-01-09 15:04:27 --> syntax error, unexpected variable "$routes"
+in APPPATH\Config\Routes.php on line 12.
+ 1 SYSTEMPATH\CLI\Console.php(39): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 2 ROOTPATH\spark(102): CodeIgniter\CLI\Console->run()
+CRITICAL - 2024-01-09 15:04:55 --> syntax error, unexpected variable "$routes"
+in APPPATH\Config\Routes.php on line 12.
+ 1 SYSTEMPATH\CLI\Console.php(39): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 2 ROOTPATH\spark(102): CodeIgniter\CLI\Console->run()
+INFO - 2024-01-09 15:06:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
