@@ -8,6 +8,8 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
     <!-- import icon -->
     <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+    <!-- animasi -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
 
     <title>Login</title>
 </head>
@@ -34,6 +36,7 @@
         border-radius: 10px;
         padding: 30px;
         width: max-content;
+        --animate-duration: .5s;
     }
 
     .container h1 {
@@ -79,7 +82,7 @@
         color: white;
     }
 
-    .alert a{
+    .alert a {
         color: white;
 
     }
@@ -106,7 +109,7 @@
 </style>
 
 <body>
-    <div class="container col-12 mt-5">
+    <div class="container col-12 mt-5 animate__animated animate__zoomIn">
         <h1>SELAMAT DATANG</h1>
         <p>Pengumuman Kelulusan SMP Negeri 1 Pekalongan</p>
         <form action="" method="post">
@@ -120,7 +123,7 @@
             </div>
             <?php if (session()->getFlashdata('error')) { ?>
                 <div class="alert">
-                    <p>login error, silahkan hubungi <a href="https://wa.me/6281215699692">admin</a></p>
+                    <p><?php echo session()->getFlashdata('error') ?></p>
                 </div>
             <?php } ?>
             <div class="button col-3">

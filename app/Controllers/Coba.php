@@ -8,6 +8,6 @@ class Coba extends BaseController
 {
     public function index()
     {
-        return view('login_view_2');
+        return view('main_view_2');
     }
 }
