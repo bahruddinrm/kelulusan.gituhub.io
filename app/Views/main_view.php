@@ -40,7 +40,6 @@
         font-size: 30px;
         font-weight: bold;
     }
-
 </style>
 
 <body>
@@ -91,7 +90,7 @@
                     <tr>
                         <td colspan="3" align="center" style="font-weight: bold;">
                             <a href="<?php echo session()->getFlashdata('berkas'); ?>" class="btn btn-warning me-5">CETAK SKL</a>
-                            <a href="<?php echo site_url('main/logout'); ?>" class="btn btn-primary ms-5">LOGOUT</a>
+                            <a href="<?php echo site_url('login/logout'); ?>" class="btn btn-primary ms-5">LOGOUT</a>
                         </td>
                     </tr>
                 </table>

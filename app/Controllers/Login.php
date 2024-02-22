@@ -21,7 +21,7 @@ class Login extends BaseController
 
             // ERROR JIKA USERNAME TIDAK TERDAFTAR
             $user = $ModelLogin->where('nisn', $nisn)->first();
-            if (!$user){
+            if (!$user) {
                 $err = 'SISWA TIDAK TERDAFTAR DI SMP N 1 PEKALONGAN';
             }
 
@@ -45,7 +45,7 @@ class Login extends BaseController
                     'berkas' => $data['berkas'],
                 ];
                 session()->set($dataSesi);
-                return redirect()->to('/main');
+                return redirect()->to('/login/main');
             }
             if ($err) {
                 session()->setFlashdata('nisn', $nisn);
@@ -54,5 +54,16 @@ class Login extends BaseController
             }
         }
         return view('login_view');
+    }
+
+    public function main()
+    {
+        return view('main_view');
+    }
+
+    public function logout()
+    {
+        session()->destroy();
+        return redirect()->to('/login');
     }
 }

@@ -4,21 +4,15 @@ namespace App\Models;
 
 use CodeIgniter\Model;
 
-class LoginModel extends Model
+class AdminModel extends Model
 {
-    protected $table            = 'user';
-    protected $primaryKey       = 'nisn';
+    protected $table            = 'admin';
+    protected $primaryKey       = 'id';
     protected $useAutoIncrement = true;
     protected $returnType       = 'array';
     protected $useSoftDeletes   = false;
     protected $protectFields    = true;
-    protected $allowedFields    = ['nisn','nis','nama_lengkap','kelas','tempat_lahir','tanggal_lahir','asal_sekolah','status_dinyatakan','berkas'];
-
-    //funtion
-    public function cari($keyword)
-    {
-        return $this->table('user')->like('nama_lengkap', $keyword)->orLike('nisn', $keyword);
-    }
+    protected $allowedFields    = ['id','username','password','nama_lengkap'];
 
     // Dates
     protected $useTimestamps = false;

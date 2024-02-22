@@ -2,6 +2,8 @@
 
 namespace Config;
 
+use App\Filters\AdminLoginFilter;
+use App\Filters\AdminLogoutFilter;
 use App\Filters\LoginFilter;
 use App\Filters\TamuFilter;
 use App\Filters\UserFilter;
@@ -30,6 +32,8 @@ class Filters extends BaseConfig
         'secureheaders' => SecureHeaders::class,
         'userFilter'    => UserFilter::class,
         'tamuFilter'    => TamuFilter::class,
+        'adminLoginFilter'  => AdminLoginFilter::class,
+        'adminLogoutFilter' => AdminLogoutFilter::class,
     ];
 
     /**
