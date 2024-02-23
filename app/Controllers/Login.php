@@ -44,8 +44,9 @@ class Login extends BaseController
                     'status_dinyatakan' => $data['status_dinyatakan'],
                     'berkas' => $data['berkas'],
                 ];
-                session()->set($dataSesi);
-                return redirect()->to('/login/main');
+                return view('main_view', $dataSesi);
+                // session()->set($dataSesi);
+                // return redirect()->to('/login/main');
             }
             if ($err) {
                 session()->setFlashdata('nisn', $nisn);
@@ -58,7 +59,21 @@ class Login extends BaseController
 
     public function main()
     {
-        return view('main_view');
+        $LoginModel = new \App\Models\LoginModel();
+        $siswa = $LoginModel->findAll();
+        $data =
+            [
+                'nisn' => $this->request->getVar('nisn'),
+                'nis' => $this->request->getVar('nis'),
+                'nama_lengkap' => $this->request->getVar('nama_lengkap'),
+                'kelas' => $this->request->getVar('kelas'),
+                'tempat_lahir' => $this->request->getVar('tempat_lahir'),
+                'tanggal_lahir' => $this->request->getVar('tanggal_lahir'),
+                'asal_sekolah' => $this->request->getVar('asal_sekolah'),
+                'status_dinyatakan' => $this->request->getVar('status_dinyatakan'),
+                'berkas' => $this->request->getVar('berkas'),
+            ];
+        return view('main_view', $data);
     }
 
     public function logout()

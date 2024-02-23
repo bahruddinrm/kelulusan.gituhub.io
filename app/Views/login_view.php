@@ -80,6 +80,8 @@
 
     .alert p {
         color: white;
+        margin: 0;
+        padding: 0;
     }
 
     .alert a {
@@ -124,6 +126,7 @@
             <?php if (session()->getFlashdata('error')) { ?>
                 <div class="alert">
                     <p><?php echo session()->getFlashdata('error') ?></p>
+                    <p>silahkan hubungi <a href="https://wa.me/6289690791415?text=Assalamualaikum, Saya ..... memiliki kendala .....">admin</a></p>
                 </div>
             <?php } ?>
             <div class="button col-3">

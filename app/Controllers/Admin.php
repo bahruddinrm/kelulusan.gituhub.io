@@ -85,10 +85,6 @@ class Admin extends BaseController
         $LoginModel = new \App\Models\LoginModel();
         $siswa = $LoginModel->findAll();
 
-        $fileBerkas = $this->request->getFile('berkas');
-        $fileBerkas->move('berkas');
-        $namaBerkas = $fileBerkas->getName();
-
         $data =
             [
                 'nisn' => $this->request->getVar('nisn'),
@@ -97,7 +93,7 @@ class Admin extends BaseController
                 'kelas' => $this->request->getVar('kelas'),
                 'tempat_lahir' => $this->request->getVar('tempat_lahir'),
                 'tanggal_lahir' => $this->request->getVar('tanggal_lahir'),
-                'berkas' => $namaBerkas
+                'berkas' => $this->request->getVar('berkas')
             ];
         $LoginModel->insert($data);
         return redirect()->to('admin/dashboard');

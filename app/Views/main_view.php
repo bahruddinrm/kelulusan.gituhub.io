@@ -55,27 +55,27 @@
                     <tr>
                         <td style="font-weight: bold;">NAMA LENGKAP</td>
                         <td>:</td>
-                        <td><?php echo session()->get('nama_lengkap'); ?></td>
+                        <td><?= $nama_lengkap ?></td>
                     </tr>
                     <tr>
                         <td style="font-weight: bold;">NISN</td>
                         <td>:</td>
-                        <td><?php echo session()->get('nisn'); ?></td>
+                        <td><?= $nisn ?></td>
                     </tr>
                     <tr>
                         <td style="font-weight: bold;">KELAS</td>
                         <td>:</td>
-                        <td><?php echo session()->get('kelas'); ?></td>
+                        <td><?= $kelas ?></td>
                     </tr>
                     <tr>
                         <td style="font-weight: bold;">TEMPAT/TANGGAL LAHIR</td>
                         <td>:</td>
-                        <td><?php echo session()->get('tempat_lahir'); ?> / <?php echo session()->get('tanggal_lahir'); ?></td>
+                        <td><?= $tempat_lahir ?> / <?= $tanggal_lahir ?></td>
                     </tr>
                     <tr>
                         <td style="font-weight: bold;">ASAL SEKOLAH</td>
                         <td>:</td>
-                        <td><?php echo session()->get('asal_sekolah'); ?></td>
+                        <td><?= $asal_sekolah ?></td>
                     </tr>
                     <tr>
                         <td colspan="3" align="center" style="font-weight: bold;">
@@ -84,12 +84,12 @@
                     </tr>
                     <tr>
                         <td colspan="3" align="center" style="font-family: Arial Black, Helvetica, sans-serif;">
-                            <h1><?php echo session()->get('status_dinyatakan'); ?></h1>
+                            <h1><?= $status_dinyatakan ?></h1>
                         </td>
                     </tr>
                     <tr>
                         <td colspan="3" align="center" style="font-weight: bold;">
-                            <a href="<?php echo session()->getFlashdata('berkas'); ?>" class="btn btn-warning me-5">CETAK SKL</a>
+                            <a href="<?= $berkas ?>" class="btn btn-warning me-5">CETAK SKL</a>
                             <a href="<?php echo site_url('login/logout'); ?>" class="btn btn-primary ms-5">LOGOUT</a>
                         </td>
                     </tr>

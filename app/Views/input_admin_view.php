@@ -45,7 +45,7 @@
                 <div class="row mb-3">
                     <label for="berkas" class="col-sm-2 col-form-label">berkas</label>
                     <div class="col-sm-10">
-                        <input type="file" class="form-control" id="berkas" name="berkas">
+                        <input type="text" class="form-control" id="berkas" name="berkas">
                     </div>
                 </div>
                 <button type="submit" class="btn btn-primary mt-3">SIMPAN</button>
