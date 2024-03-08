@@ -13,37 +13,37 @@
                     </div>
                 </div>
                 <div class="row mb-3">
-                    <label for="nis" class="col-sm-2 col-form-label">nis</label>
+                    <label for="nis" class="col-sm-2 col-form-label">NIS</label>
                     <div class="col-sm-10">
                         <input type="text" class="form-control" id="nis" name="nis" required>
                     </div>
                 </div>
                 <div class="row mb-3">
-                    <label for="nama_lengkap" class="col-sm-2 col-form-label">nama_lengkap</label>
+                    <label for="nama_lengkap" class="col-sm-2 col-form-label">Nama Lengkap</label>
                     <div class="col-sm-10">
                         <input type="text" class="form-control" id="nama_lengkap" name="nama_lengkap" required>
                     </div>
                 </div>
                 <div class="row mb-3">
-                    <label for="kelas" class="col-sm-2 col-form-label">kelas</label>
+                    <label for="kelas" class="col-sm-2 col-form-label">Kelas</label>
                     <div class="col-sm-10">
                         <input type="text" class="form-control" id="kelas" name="kelas" required>
                     </div>
                 </div>
                 <div class="row mb-3">
-                    <label for="tempat_lahir" class="col-sm-2 col-form-label">tempat_lahir</label>
+                    <label for="tempat_lahir" class="col-sm-2 col-form-label">Tempat Lahir</label>
                     <div class="col-sm-10">
                         <input type="text" class="form-control" id="tempat_lahir" name="tempat_lahir" required>
                     </div>
                 </div>
                 <div class="row mb-3">
-                    <label for="tanggal_lahir" class="col-sm-2 col-form-label">tanggal_lahir</label>
+                    <label for="tanggal_lahir" class="col-sm-2 col-form-label">Tanggal Lahir</label>
                     <div class="col-sm-10">
                         <input type="date" class="form-control" id="tanggal_lahir" name="tanggal_lahir" required>
                     </div>
                 </div>
                 <div class="row mb-3">
-                    <label for="berkas" class="col-sm-2 col-form-label">berkas</label>
+                    <label for="berkas" class="col-sm-2 col-form-label">Berkas</label>
                     <div class="col-sm-10">
                         <input type="text" class="form-control" id="berkas" name="berkas">
                     </div>
