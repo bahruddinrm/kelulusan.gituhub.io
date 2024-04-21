@@ -28,8 +28,24 @@ class Main2 extends BaseController
     public function download($nisn)
     {
         $LoginModel = new \App\Models\LoginModel();
-        $berkas = $LoginModel->find($nisn);
-        return $this->response->download('berkas/'.$berkas->berkas,null);
+        $berkas = session()->get('datasesi');
+        $nama_berkas = $berkas['nisn'] . '.pdf';
+
+        // $url_unduh = base_url('/berkas/url/' . $nama_berkas);
+
+        // $berkas = $LoginModel->find($nisn);
+        // $berkas = $LoginModel['nisn'];
+        // $nama_berkas = $data . 'pdf';
+        return $this->response->download('berkas/skl/' . $nama_berkas, null);
+    }
+
+    public function nilai($nisn)
+    {
+        $LoginModel = new \App\Models\LoginModel();
+        $nilai = session()->get('datasesi');
+        $nama_berkas = $nilai['nisn'] . '.pdf';
+
+        return $this->response->download('berkas/nilai_5_semester/' . $nama_berkas, null);
     }
 
     public function logout()

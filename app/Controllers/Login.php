@@ -44,8 +44,8 @@ class Login extends BaseController
                     'status_dinyatakan' => $data['status_dinyatakan'],
                     'berkas' => $data['berkas'],
                 ];
+                session()->set('datasesi', $dataSesi);
                 return view('main_view', $dataSesi);
-                // session()->set($dataSesi);
                 // return redirect()->to('/login/main');
             }
             if ($err) {

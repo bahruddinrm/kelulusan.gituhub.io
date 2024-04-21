@@ -89,7 +89,8 @@
                     </tr>
                     <tr>
                         <td colspan="3" align="center" style="font-weight: bold;">
-                            <a href="<?= $berkas ?>" class="btn btn-warning me-5">CETAK SKL</a>
+                            <a class="btn btn-warning" href="/main2/download/<?= $berkas ?>">Download SKL</a>
+                            <!-- <a class="btn btn-success" href="/main2/nilai/<?= $berkas ?>">Download Nilai 5 Semester</a> -->
                             <a href="<?php echo site_url('login/logout'); ?>" class="btn btn-primary ms-5">LOGOUT</a>
                         </td>
                     </tr>
