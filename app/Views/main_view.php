@@ -40,6 +40,16 @@
         font-size: 30px;
         font-weight: bold;
     }
+
+    @media print {
+        @page{
+            margin-top: 30px;
+            margin-bottom: 10px;
+        }
+        footer, tr:nth-child(8), a#debug-icon-link{
+            display: none;
+        }
+    }
 </style>
 
 <body>
@@ -89,8 +99,9 @@
                     </tr>
                     <tr>
                         <td colspan="3" align="center" style="font-weight: bold;">
-                            <a class="btn btn-warning" href="/main2/download/<?= $berkas ?>">Download SKL</a>
-                            <!-- <a class="btn btn-success" href="/main2/nilai/<?= $berkas ?>">Download Nilai 5 Semester</a> -->
+                            <!-- <a class="btn btn-warning" href="/main2/download/< ?= $berkas ?>">Download SKL</a> -->
+                            <!-- <a class="btn btn-success" href="/main2/nilai/< ?= $berkas ?>">Download Nilai 5 Semester</a> -->
+                            <a class="btn btn-success" href="#" id="printPage">Cetak</a>
                             <a href="<?php echo site_url('login/logout'); ?>" class="btn btn-primary ms-5">LOGOUT</a>
                         </td>
                     </tr>
@@ -99,6 +110,12 @@
         </div>
     </div>
 </body>
+
+<script>
+    document.getElementById("printPage").addEventListener("click", function() {
+        window.print();
+    })
+</script>
 
 <footer class="bg-body-tertiary text-center text-lg-start">
     <!-- Copyright -->

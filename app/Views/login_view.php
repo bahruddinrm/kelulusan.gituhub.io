@@ -16,7 +16,11 @@
 
 <style>
     body {
-        background-image: url(<?php echo base_url('image/bg.jpg') ?>);
+        background-image: url(<?php
+
+use CodeIgniter\Images\Image;
+
+ echo base_url('image/bg.jpg') ?>);
         background-size: cover;
         background-position: center;
         height: 100vh;
@@ -108,10 +112,16 @@
         color: #333;
         text-decoration: underline;
     }
+
+    .logo img{
+        height: 100px;
+        width: 100px;
+    }
 </style>
 
 <body>
     <div class="container col-12 mt-5 animate__animated animate__zoomIn">
+        <div class="logo" style="text-align: center;"><img src="/image/logo.png" alt="smpn_1_pekalongan"></div>
         <h1>SELAMAT DATANG</h1>
         <p>Pengumuman Kelulusan SMP Negeri 1 Pekalongan</p>
         <form action="" method="post">
