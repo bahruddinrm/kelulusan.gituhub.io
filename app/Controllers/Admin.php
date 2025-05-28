@@ -49,7 +49,7 @@ class Admin extends BaseController
         }
         return view('login_admin_view');
     }
-    
+
     public function dashboard()
     {
         $LoginModel = new \App\Models\LoginModel();
@@ -151,6 +151,20 @@ class Admin extends BaseController
         $LoginModel->save($data);
         session()->setFlashdata('pesan', "Data berhasil diubah");
         return redirect()->to('admin/dashboard');
+    }
+
+    public function import_siswa_view()
+    {
+        $data =
+        [
+            'title' => 'edit',
+        ];
+        return view('import_siswa', $data);
+    }
+
+    public function import_siswa()
+    {
+        $LoginModel = new \App\Models\LoginModel();
     }
 
     public function logout()

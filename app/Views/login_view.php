@@ -1,4 +1,4 @@
-    <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -16,11 +16,7 @@
 
 <style>
     body {
-        background-image: url(<?php
-
-use CodeIgniter\Images\Image;
-
- echo base_url('image/bg.jpg') ?>);
+        background-image: url(<?php echo base_url('image/bg.jpg') ?>);
         background-size: cover;
         background-position: center;
         height: 100vh;
@@ -113,7 +109,7 @@ use CodeIgniter\Images\Image;
         text-decoration: underline;
     }
 
-    .logo img{
+    .logo img {
         height: 100px;
         width: 100px;
     }
@@ -124,6 +120,8 @@ use CodeIgniter\Images\Image;
         <div class="logo" style="text-align: center;"><img src="/image/logo.png" alt="smpn_1_pekalongan"></div>
         <h1>SELAMAT DATANG</h1>
         <p>Pengumuman Kelulusan SMP Negeri 1 Pekalongan</p>
+        <!-- <h3 style="text-align: center;">Pengumuman Kelulusan </h3>
+        <h3 style="text-align: center;">Akan Dibuka Pada Jam 15:00 WIB</h3> -->
         <form action="" method="post">
             <div class="input-box col-6">
                 <i class="bx bxs-user"></i>

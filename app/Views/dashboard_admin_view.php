@@ -15,6 +15,7 @@
                     <div class="input-group mb-3">
                         <input type="text" class="form-control" placeholder="cari..." name="keyword">
                         <button class="btn btn-outline-secondary" type="submit">Cari</button>
+                        <a href="/admin/import_siswa_view" class="btn-sm btn-primary" title="import siswa">Import Siswa</a>
                     </div>
                 </form>
             </div>
