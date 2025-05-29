@@ -1,5 +1,6 @@
 <?= $this->extend('layout/template'); ?>
 <?= $this->section('content'); ?>
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
 
 <div class="container">
     <?php if (session()->getFlashdata('pesan')) : ?>
@@ -51,5 +52,17 @@
     </table>
     <?= $pager->links('siswa', 'siswa_pagination'); ?>
 </div>
+
+<?php if (session()->getFlashdata('pesan')) : ?>
+    <script>
+        Swal.fire({
+            icon: 'success',
+            title: 'Berhasil!',
+            text: '<?= session()->getFlashdata('pesan'); ?>',
+            showConfirmButton: false,
+            timer: 2000
+        });
+    </script>
+<?php endif; ?>
 
 <?= $this->endSection(); ?>

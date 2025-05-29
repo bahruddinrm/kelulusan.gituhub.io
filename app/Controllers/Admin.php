@@ -3,6 +3,7 @@
 namespace App\Controllers;
 
 use App\Controllers\BaseController;
+use PhpOffice\PhpSpreadsheet\IOFactory as SpreadsheetIOFactory;
 
 class Admin extends BaseController
 {
@@ -156,15 +157,47 @@ class Admin extends BaseController
     public function import_siswa_view()
     {
         $data =
-        [
-            'title' => 'edit',
-        ];
+            [
+                'title' => 'edit',
+            ];
         return view('import_siswa', $data);
     }
 
     public function import_siswa()
     {
         $LoginModel = new \App\Models\LoginModel();
+        $file_excel = $this->request->getFile('file');
+        $ext = $file_excel->getExtension();
+        if ($ext == 'xls') {
+            $render = new \PhpOffice\PhpSpreadsheet\Reader\Xls();
+        } else {
+            $render = new \PhpOffice\PhpSpreadsheet\Reader\Xlsx();
+        }
+        $spreadsheet = $render->load($file_excel);
+        $active = $spreadsheet->getActiveSheet()->toArray();
+
+        $i = 0;
+        foreach ($active as $x => $row) {
+            if ($x == 0) {
+                continue;
+            }
+
+            $data[] = [
+                'nisn'              => $row[0],
+                'nis'               => $row[1],
+                'nama_lengkap'      => $row[2],
+                'kelas'             => $row[3],
+                'tempat_lahir'      => $row[4],
+                'tanggal_lahir'     => $row[5],
+                'asal_sekolah'      => $row[6],
+                'status_dinyatakan' => $row[7],
+                'berkas'            => $row[8],
+            ];
+        }
+
+        $LoginModel->insertBatch($data);
+        session()->setFlashdata('pesan', 'Data Berhasil Diimport');
+        return redirect()->to('/admin/dashboard');
     }
 
     public function logout()
